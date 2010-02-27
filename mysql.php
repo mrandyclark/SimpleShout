@@ -1,10 +1,10 @@
 <?php
 
 // connection info
-$mysql_serv = "mysql.hiimandy.com"
-$mysql_user = "simpleshout"
-$mysql_pass = "shoutitout"
-$mysql_db = "simpleshout"
+$mysql_serv = "mysql.hiimandy.com";
+$mysql_user = "simpleshout";
+$mysql_pass = "shoutitout";
+$mysql_db = "simpleshout";
 
 // create a connection
 $con = mysql_connect($mysql_serv, $mysql_user, $mysql_pass);
